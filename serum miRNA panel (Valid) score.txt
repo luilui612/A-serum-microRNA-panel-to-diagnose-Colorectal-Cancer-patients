@@ -1,0 +1,1 @@
+serum miRNA panel (Val) score = -0.32 + (0.0471 * miR-106b-5p/miR-1246) + (0.137 * miR-106b-5p/miR-16) + (0.0196 * miR-106b-5p/miR-21-5p)
